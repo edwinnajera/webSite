@@ -1,0 +1,9 @@
+---
+label: Edwin
+hide_body: false
+is_partial: false
+fields:
+- type: include
+- type: text
+  name: datos
+  label: Datos
